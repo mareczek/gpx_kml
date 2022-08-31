@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   # Building tool
-  spec.add_dependency 'rake', '~> 12.0'
+  spec.add_dependency 'rake', '~> 13.0'
 
   # XML parsing
   spec.add_dependency 'nokogiri', '~>1.13.0'
